@@ -27,8 +27,5 @@ You can reorder the items in the "Pinned" section. In the upper-right corner of 
 5. Select a combination of up to six repositories and/or gists to display.
 	![Select items](/assets/images/help/profile/select-items-to-pin.png)
 6. Click **Save pins**.
-	![Save pins button](/assets/images/help/profile/save-pinned-repositories.png)
-
-### Further reading
-
+	![
 - "[About your profile](/articles/about-your-profile)"
